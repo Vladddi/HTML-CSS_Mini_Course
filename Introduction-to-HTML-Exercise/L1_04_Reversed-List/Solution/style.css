@@ -1,0 +1,15 @@
+body {
+    size: 500px;
+    text-size-adjust:initial;
+    background-color: #E6E5E5;
+    font: optional;
+}
+
+h3 {
+    text-align: center;
+    color: #234465;
+}
+
+li {
+   text-decoration:underline;
+}
